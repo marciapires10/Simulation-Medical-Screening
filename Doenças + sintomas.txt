@@ -1,0 +1,47 @@
+10 diferentes doenças
+
+--> Gripe
+Febre alta;
+Calafrios;
+Dor de cabeça;
+Tosse e espirros;
+Dor de garganta;
+Dores musculares;
+Perda de apetite e cansaço;
+
+--> SIDA
+Febre alta;
+Suores noturnos;
+Manchas vermelhas na pele;
+Tosse;
+Perda de peso;
+Problemas de memória;
+Dificuldade para respirar;
+
+
+--> Infeção urinária
+Dor a urinar;
+Dor abdominal;
+Cansaço e mal estar;
+Alterações na cor da urina;
+Sensação urgente de urinar;
+Febre;
+
+--> Apendicite
+Dor abdominal;
+Dor intensa no lado inferior direito da barriga;
+Náuseas ou vómitos;
+Perda de apetite;
+Febre;
+Mal estar geral;
+Diarreia;
+
+--> Gravidez
+Cólica e inchaço;
+Cansaço;
+Variações de humor;
+Enjôo e vómitos;
+Tonturas;
+Dor de cabeça;
+Vontade frequente para urinar;
+
